@@ -18,10 +18,10 @@ $ cd letmeask
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
-$ yarn
+$ npm install
 
 # Iniciar o projeto
-$ yarn start
+$ npm start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
